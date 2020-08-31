@@ -1,0 +1,43 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.shopnobuilder.digitalrailway.FindTrainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.SearchView
+                android:id="@+id/mSearch2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                app:defaultQueryHint="Find By Station Name"
+                android:contextClickable="true"
+                android:backgroundTint="@color/colorPrimary"
+                android:backgroundTintMode="add"
+                android:tooltipText="Search Here">
+            </android.support.v7.widget.SearchView>
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/myRecycler2"
+                class="android.support.v7.widget.RecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/mSearch2"
+                android:paddingBottom="@dimen/activity_horizontal_margin"
+                android:paddingVertical="@dimen/appbar_padding_top"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

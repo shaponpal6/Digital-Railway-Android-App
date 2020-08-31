@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardElevation="2dp"
+    card_view:cardBackgroundColor="#eff"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardPreventCornerOverlap="true"
+    card_view:contentPadding="5dp"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    android:layout_marginTop="60dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/relativeLayout"
+        android:padding="12dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view1"
+            android:orientation="horizontal">
+            <AutoCompleteTextView
+                android:id="@+id/tracking_tr_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/Autocomplete"
+                android:completionThreshold="1"
+                android:hint="Find Train ..."/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:id="@+id/aro1"
+                android:src="@mipmap/ic_arrow_drop_down_black_24dp"
+                android:layout_alignRight="@+id/tracking_tr_name"
+                android:layout_alignBottom="@+id/tracking_tr_name"
+                />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view3"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:orientation="horizontal"
+            android:layout_weight="100"
+            android:layout_below="@+id/view1">
+            <EditText
+                android:id="@+id/tracking_tr_from"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="45"
+                android:hint="From" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:hint="to"
+                android:layout_weight="10"/>
+            <EditText
+                android:id="@+id/tracking_tr_to"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="45"
+                android:hint="From" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view2"
+            android:layout_below="@+id/view3"
+            android:orientation="vertical">
+        <AutoCompleteTextView
+            android:id="@+id/tracking_tr_current_station"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Current"
+            android:completionThreshold="1"
+            android:theme="@style/Autocomplete"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:id="@+id/aro2"
+            android:src="@mipmap/ic_arrow_drop_down_black_24dp"
+            android:layout_alignRight="@+id/tracking_tr_current_station"
+            android:layout_alignBottom="@+id/tracking_tr_current_station"
+            />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view5"
+            android:layout_below="@+id/view1"
+            android:orientation="vertical">
+            <AutoCompleteTextView
+                android:id="@+id/tracking_tr_status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Status"
+                android:completionThreshold="1"
+                android:theme="@style/Autocomplete"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:id="@+id/aro5"
+                android:src="@mipmap/ic_arrow_drop_down_black_24dp"
+                android:layout_alignRight="@+id/tracking_tr_status"
+                android:layout_alignBottom="@+id/tracking_tr_status"
+                />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view6"
+            android:layout_below="@+id/view1"
+            android:orientation="vertical">
+            <AutoCompleteTextView
+                android:id="@+id/tracking_tr_delay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Delay"
+                android:completionThreshold="1"
+                android:theme="@style/Autocomplete"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:id="@+id/aro6"
+                android:src="@mipmap/ic_arrow_drop_down_black_24dp"
+                android:layout_alignRight="@+id/tracking_tr_delay"
+                android:layout_alignBottom="@+id/tracking_tr_delay"
+                />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <EditText
+                android:id="@+id/tr_comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Write Your Comments Here..."
+                android:inputType="textMultiLine" />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/tracking_submit_btn"
+            android:text="Save"/>
+    </LinearLayout>
+
+
+
+
+</android.support.v7.widget.CardView>

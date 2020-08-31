@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shopnobuilder.digitalrailway">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/digital_railway_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/digital_railway_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FindTrainActivity"
+            android:label="@string/title_activity_find_train"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".SMSTrackingActivity"
+            android:label="@string/title_activity_smstracking"
+            android:parentActivityName=".FindTrainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.FindTrainActivity" />
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TrainViewActivity"
+            android:label="@string/title_activity_train_view"
+            android:parentActivityName=".FindTrainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.FindTrainActivity" />
+        </activity>
+        <activity
+            android:name=".WebViewActivity"
+            android:label="@string/title_activity_web_view"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".BaseActivity"
+            android:label="@string/title_activity_base"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".SMSTicketingSystemDocActivity"
+            android:label="@string/title_activity_smsticketing_system_doc"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ImportantNumberActivity"
+            android:label="@string/title_activity_important_number"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AddTrackingActivity"
+            android:label="@string/title_activity_add_tracking"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ViewTrackingActivity"
+            android:label="@string/title_activity_view_tracking"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AnimationActivity"
+            android:label="@string/title_activity_animation"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.shopnobuilder.digitalrailway.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

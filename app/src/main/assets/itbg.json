@@ -1,0 +1,1797 @@
+{
+  "itbg": [
+    {
+      "trainNo": "3107/3110",
+      "trainName": "Moitree Express Train",
+      "weeklyOffDay": "Sat. Sun. Mon. Tues. & Thusday",
+      "startingStation": "Dhaka Cantt",
+      "departureTime": "08 : 10",
+      "arrivalStation": "Kolkata",
+      "arrivalTime": "18 : 45"
+    },
+    {
+      "trainNo": "3108/3109",
+      "trainName": "Moitree Express Train",
+      "weeklyOffDay": "Sun. Mon. Wed. Thus. & Friday",
+      "startingStation": "Kolkata",
+      "departureTime": "07 : 10",
+      "arrivalStation": "Dhaka Kamalapur Cantt",
+      "arrivalTime": "18 : 05"
+    },
+    {
+      "trainNo": "715",
+      "trainName": "Kapotaskh Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Khulna",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "13 : 10"
+    },
+    {
+      "trainNo": "716",
+      "trainName": "Kapotaskh Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "14 : 00",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "20 : 50"
+    },
+    {
+      "trainNo": "725",
+      "trainName": "Sundarban Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Khulna",
+      "departureTime": "19 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "05 : 40"
+    },
+    {
+      "trainNo": "726",
+      "trainName": "Sundarban Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "06 : 20",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "16 : 20"
+    },
+    {
+      "trainNo": "727",
+      "trainName": "Rupsha Express Train",
+      "weeklyOffDay": "Thrusday",
+      "startingStation": "Khulna",
+      "departureTime": "07 : 45",
+      "arrivalStation": "Saidpur",
+      "arrivalTime": "17 : 15"
+    },
+    {
+      "trainNo": "728",
+      "trainName": "Rupsha Express Train",
+      "weeklyOffDay": "Thrusday",
+      "startingStation": "Saidpur",
+      "departureTime": "07 : 45",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "18 : 00"
+    },
+    {
+      "trainNo": "731",
+      "trainName": "Barendra Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Nilphamari",
+      "arrivalTime": "21 : 00"
+    },
+    {
+      "trainNo": "732",
+      "trainName": "Barendra Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Nilphamari",
+      "departureTime": "06 : 20",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "12 : 35"
+    },
+    {
+      "trainNo": "733",
+      "trainName": "Titumir Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Chilahati",
+      "arrivalTime": "13 : 40"
+    },
+    {
+      "trainNo": "734",
+      "trainName": "Titumir Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Chilahati",
+      "departureTime": "14 : 20",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "22 : 00"
+    },
+    {
+      "trainNo": "747",
+      "trainName": "Simanta Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Khulna",
+      "departureTime": "21 : 00",
+      "arrivalStation": "Saidpur",
+      "arrivalTime": "06 : 20"
+    },
+    {
+      "trainNo": "748",
+      "trainName": "Simanta Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Saidpur",
+      "departureTime": "19 : 00",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "04 : 30"
+    },
+    {
+      "trainNo": "753",
+      "trainName": "Silk city Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "14 : 40",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "21 : 05"
+    },
+    {
+      "trainNo": "754",
+      "trainName": "Silk city Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "07 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "14 : 00"
+    },
+    {
+      "trainNo": "755",
+      "trainName": "Madhumati Express Train",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Goalonda Ghat",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "20 : 30"
+    },
+    {
+      "trainNo": "756",
+      "trainName": "Madhumati Express Train",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "07 : 10",
+      "arrivalStation": "Goalonda Ghat",
+      "arrivalTime": "12 : 40"
+    },
+    {
+      "trainNo": "759",
+      "trainName": "Padma Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "23 : 10",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "04 : 50"
+    },
+    {
+      "trainNo": "760",
+      "trainName": "Padma Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "16 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "21 : 50"
+    },
+    {
+      "trainNo": "761",
+      "trainName": "Sagardari Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Khulna",
+      "departureTime": "14 : 50",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "21 : 40"
+    },
+    {
+      "trainNo": "762",
+      "trainName": "Sagardari Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "06 : 50",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "13 : 30"
+    },
+    {
+      "trainNo": "763",
+      "trainName": "Chittra Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Khulna",
+      "departureTime": "08 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "18 : 20"
+    },
+    {
+      "trainNo": "764",
+      "trainName": "Chittra Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "19 : 00",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "05 : 10"
+    },
+    {
+      "trainNo": "765",
+      "trainName": "Nilsagar",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Dhaka Cantt",
+      "departureTime": "08 : 25",
+      "arrivalStation": "Nilphamari",
+      "arrivalTime": "18 : 15"
+    },
+    {
+      "trainNo": "766",
+      "trainName": "Nilsagar",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Saidpur",
+      "departureTime": "23 : 00",
+      "arrivalStation": "Dhaka Kamalapur Cantt",
+      "arrivalTime": "07 : 50"
+    },
+    {
+      "trainNo": "769",
+      "trainName": "Dhumketue Express Train",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "06 : 00",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "11 : 50"
+    },
+    {
+      "trainNo": "770",
+      "trainName": "Dhumketue Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "23 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "04 : 50"
+    },
+    {
+      "trainNo": "775",
+      "trainName": "Sirajgong Express Train",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Ishurdi",
+      "departureTime": "07 : 45",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "15 : 10"
+    },
+    {
+      "trainNo": "776",
+      "trainName": "Sirajgong Express Train",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "17 : 00",
+      "arrivalStation": "Ishurdi",
+      "arrivalTime": "00 : 00"
+    },
+
+	
+    {
+      "trainNo": "701",
+      "trainName": "Subarna Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "07:00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "12:40"
+    },
+    {
+      "trainNo": "702",
+      "trainName": "Subarna Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "20:30"
+    },
+    {
+      "trainNo": "703",
+      "trainName": "Mohanagar Goduli",
+      "weeklyOffDay": " No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "22 : 15"
+    },
+    {
+      "trainNo": "704",
+      "trainName": "Mohanagar Provati",
+      "weeklyOffDay": " No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "07 : 40",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "14:55"
+    },
+    {
+      "trainNo": "705",
+      "trainName": "Ekota Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "10 : 00",
+      "arrivalStation": "Dinajpur, Bangladesh",
+      "arrivalTime": "19 : 45"
+    },
+    {
+      "trainNo": "706",
+      "trainName": "Ekota Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Dinajpur, Bangladesh",
+      "departureTime": "21 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "07 : 10"
+    },
+    {
+      "trainNo": "707",
+      "trainName": "Tista Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "07 : 20",
+      "arrivalStation": "Dewangong",
+      "arrivalTime": "12 : 45"
+    },
+    {
+      "trainNo": "708",
+      "trainName": "Tista Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Dewangong",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "20 : 45"
+    },
+    {
+      "trainNo": "709",
+      "trainName": "Parabat  Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "06 : 40",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "13 : 40"
+    },
+    {
+      "trainNo": "710",
+      "trainName": "Parabat  Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Sylhet",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "22 : 35"
+    },
+    {
+      "trainNo": "711",
+      "trainName": "Upukol Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Noakhali",
+      "departureTime": "06 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "13 : 00"
+    },
+    {
+      "trainNo": "712",
+      "trainName": "Upukol Express Train",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "15 : 20",
+      "arrivalStation": "Noakhali",
+      "arrivalTime": "22 : 00"
+    },
+    {
+      "trainNo": "713",
+      "trainName": "Karutoa Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Santahar",
+      "departureTime": "16 : 15",
+      "arrivalStation": "Borimari",
+      "arrivalTime": "22 : 50"
+    },
+    {
+      "trainNo": "714",
+      "trainName": "Karutoa Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Borimari",
+      "departureTime": "17 : 40",
+      "arrivalStation": "Santahar",
+      "arrivalTime": "00 : 30"
+    },
+    {
+      "trainNo": "717",
+      "trainName": "Joyantika Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "12 : 00",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "20 : 00"
+    },
+    {
+      "trainNo": "718",
+      "trainName": "Joyantika Express Train",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Sylhet",
+      "departureTime": "08 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "16 : 20"
+    },
+    {
+      "trainNo": "719",
+      "trainName": "Paharia Express Train",
+      "weeklyOffDay": "Monday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "08 : 15",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "18 : 00"
+    },
+    {
+      "trainNo": "720",
+      "trainName": "Paharia Express Train",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Sylhet",
+      "departureTime": "10 : 15",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "20 : 20"
+    },
+    {
+      "trainNo": "721",
+      "trainName": "Mohanagar Provati",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "07 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "14 : 50"
+    },
+    {
+      "trainNo": "722",
+      "trainName": "Mohanagar Godhuli",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "16 : 20",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "00 : 00"
+    },
+    {
+      "trainNo": "723",
+      "trainName": "Uddayan Express Train",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "21 : 45",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "07 : 25"
+    },
+    {
+      "trainNo": "724",
+      "trainName": "Uddayan Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Sylhet",
+      "departureTime": "21 : 20",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "06 : 50"
+    },
+    {
+      "trainNo": "729",
+      "trainName": "Megna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "17 : 00",
+      "arrivalStation": "Chandpur",
+      "arrivalTime": "22 : 45"
+    },
+    {
+      "trainNo": "730",
+      "trainName": "Megna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chandpur",
+      "departureTime": "05 : 00",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "11 : 00"
+    },
+    {
+      "trainNo": "735",
+      "trainName": "Agnibina Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "09 : 40",
+      "arrivalStation": "Tarakandi",
+      "arrivalTime": "15 : 30"
+    },
+    {
+      "trainNo": "736",
+      "trainName": "Agnibina Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Tarakandi",
+      "departureTime": "16 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "22 : 55"
+    },
+    {
+      "trainNo": "737",
+      "trainName": "Egarosindhur Provati",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "07 : 00",
+      "arrivalStation": "Kisoregonj",
+      "arrivalTime": "11 : 15"
+    },
+    {
+      "trainNo": "738",
+      "trainName": "Egarosindhur Provati",
+      "weeklyOffDay": "No",
+      "startingStation": "Kisoregonj",
+      "departureTime": "06 : 45",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "11 : 00"
+    },
+    {
+      "trainNo": "739",
+      "trainName": "Upaban Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "21 : 50",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "05 : 30"
+    },
+    {
+      "trainNo": "740",
+      "trainName": "Upaban Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Sylhet",
+      "departureTime": "22 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "05 : 25"
+    },
+    {
+      "trainNo": "741",
+      "trainName": "Turna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "23 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "06 : 40"
+    },
+    {
+      "trainNo": "742",
+      "trainName": "Turna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "23 : 30",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "07 : 30"
+    },
+    {
+      "trainNo": "743",
+      "trainName": "Bharamaputra",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "18 : 00",
+      "arrivalStation": "Dewangong",
+      "arrivalTime": "00 : 30"
+    },
+    {
+      "trainNo": "744",
+      "trainName": "Bharamaputra",
+      "weeklyOffDay": "No",
+      "startingStation": "Dewangong",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "12 : 45"
+    },
+    {
+      "trainNo": "745",
+      "trainName": "Jamuna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "16 : 40",
+      "arrivalStation": "B.B. East",
+      "arrivalTime": "00 : 20"
+    },
+    {
+      "trainNo": "746",
+      "trainName": "Jamuna Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Bangabandhu setu. East",
+      "departureTime": "01 : 10",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "08 : 20"
+    },
+    {
+      "trainNo": "749",
+      "trainName": "Egarosindhur Goduli",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "18 : 30",
+      "arrivalStation": "Kisoregonj",
+      "arrivalTime": "23 : 15"
+    },
+    {
+      "trainNo": "750",
+      "trainName": "Egarosindhur Goduli",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Kisoregonj",
+      "departureTime": "12 : 45",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "17 : 25"
+    },
+    {
+      "trainNo": "751",
+      "trainName": "Lalmoni Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "22 : 10",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "08 : 20"
+    },
+    {
+      "trainNo": "752",
+      "trainName": "Lalmoni Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "10 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "21 : 10"
+    },
+    {
+      "trainNo": "757",
+      "trainName": "Drutojan Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "19 : 40",
+      "arrivalStation": "Dinajpur, Bangladesh",
+      "arrivalTime": "05 : 30"
+    },
+    {
+      "trainNo": "758",
+      "trainName": "Drutojan Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dinajpur, Bangladesh",
+      "departureTime": "07 : 40",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "17 : 55"
+    },
+    {
+      "trainNo": "767",
+      "trainName": "Dolonchapa Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Santahar",
+      "departureTime": "13 : 30",
+      "arrivalStation": "Dinajpur, Bangladesh",
+      "arrivalTime": "20 : 30"
+    },
+    {
+      "trainNo": "768",
+      "trainName": "Dolonchapa Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dinajpur, Bangladesh",
+      "departureTime": "05 : 40",
+      "arrivalStation": "Santahar",
+      "arrivalTime": "12 : 20"
+    },
+    {
+      "trainNo": "771",
+      "trainName": "Rangpur Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "09 : 00",
+      "arrivalStation": "Rangpur",
+      "arrivalTime": "19 : 00"
+    },
+    {
+      "trainNo": "772",
+      "trainName": "Rangpur Express Train",
+      "weeklyOffDay": "Sunday",
+      "startingStation": "Rangpur",
+      "departureTime": "20 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "06 : 15"
+    },
+    {
+      "trainNo": "773",
+      "trainName": "Kalani Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "16 : 00",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "22 : 45"
+    },
+    {
+      "trainNo": "774",
+      "trainName": "Kalani Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Sylhet",
+      "departureTime": "06 : 40",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "13 : 40"
+    },
+    {
+      "trainNo": "777",
+      "trainName": " Haor Express Train",
+      "weeklyOffDay": "Wednesday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "23 : 50",
+      "arrivalStation": "Mohangonj",
+      "arrivalTime": "06 : 10"
+    },
+    {
+      "trainNo": "778",
+      "trainName": " Haor Express Train",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Mohangonj",
+      "departureTime": "08 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "15 : 10"
+    },
+    {
+      "trainNo": "779",
+      "trainName": "KalukhaliVatiapara Express",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Vatiapara Ghat",
+      "departureTime": "13:40",
+      "arrivalStation": "Goalondho",
+      "arrivalTime": "17:50"
+    },
+    {
+      "trainNo": "780",
+      "trainName": "KalukhaliVatiapara Express",
+      "weeklyOffDay": "Thursday",
+      "startingStation": "Rajbari",
+      "departureTime": "10:40",
+      "arrivalStation": "Vatiapara Ghat",
+      "arrivalTime": "13:15"
+    },
+    {
+      "trainNo": "781",
+      "trainName": "Kishorgonj Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur",
+      "departureTime": "10 : 20",
+      "arrivalStation": "Kishorgonj",
+      "arrivalTime": "15 : 10"
+    },
+    {
+      "trainNo": "782",
+      "trainName": "Kishorgonj Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Kishorgonj",
+      "departureTime": "15 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "20 : 00"
+    },
+
+	
+	
+	
+    {
+      "trainNo": "",
+      "trainName": "Rangpur Comuter-2",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "09 : 00",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "11 : 05"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Rangpur Comuter-1",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "11 : 15",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "13 : 40"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Thakurgaon Comuter-1",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Thakurgaon",
+      "arrivalTime": "18 : 20"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Thakurgaon Comuter-1",
+      "weeklyOffDay": "No",
+      "startingStation": "Thakurgaon",
+      "departureTime": "18 : 30",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "21 : 45"
+    },
+    {
+      "trainNo": "5",
+      "trainName": "Rajshahi, Bangladesh",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "11 : 20",
+      "arrivalStation": "Chapainawabganj",
+      "arrivalTime": "21 : 45"
+    },
+    {
+      "trainNo": "6",
+      "trainName": "Rajshahi, Bangladesh",
+      "weeklyOffDay": "No",
+      "startingStation": "Chapainawabganj",
+      "departureTime": "08 : 10",
+      "arrivalStation": "Sirajgonj",
+      "arrivalTime": "17 : 20"
+    },
+    {
+      "trainNo": "15",
+      "trainName": "Mahananda",
+      "weeklyOffDay": "No",
+      "startingStation": "Khulna",
+      "departureTime": "11 : 00",
+      "arrivalStation": "Chapainawabganj",
+      "arrivalTime": "22 : 45"
+    },
+    {
+      "trainNo": "16",
+      "trainName": "Mahananda",
+      "weeklyOffDay": "No",
+      "startingStation": "Rahanpur",
+      "departureTime": "05 : 40",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "17 : 30"
+    },
+    {
+      "trainNo": "23",
+      "trainName": "Rocket",
+      "weeklyOffDay": "No",
+      "startingStation": "Khulna",
+      "departureTime": "09 : 20",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "22 : 00"
+    },
+    {
+      "trainNo": "24",
+      "trainName": "Rocket",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "09 : 50",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "00 : 10"
+    },
+    {
+      "trainNo": "25",
+      "trainName": "Nakshikantha",
+      "weeklyOffDay": "No",
+      "startingStation": "khulna",
+      "departureTime": "02 : 00",
+      "arrivalStation": "Goalondaghat",
+      "arrivalTime": "11 : 00"
+    },
+    {
+      "trainNo": "26",
+      "trainName": "Nakshikantha",
+      "weeklyOffDay": "No",
+      "startingStation": "Goalondaghat",
+      "departureTime": "13 : 00",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "22 : 30"
+    },
+    {
+      "trainNo": "27",
+      "trainName": "Chilahati",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "04 : 35",
+      "arrivalStation": "Chilahati",
+      "arrivalTime": "22 : 30"
+    },
+    {
+      "trainNo": "28",
+      "trainName": "Chilahati",
+      "weeklyOffDay": "No",
+      "startingStation": "Chilahati",
+      "departureTime": "07 : 10",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "09 : 30"
+    },
+    {
+      "trainNo": "31",
+      "trainName": "Uttara Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "12 : 00",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "20 : 15"
+    },
+    {
+      "trainNo": "32",
+      "trainName": "Uttara Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "03 : 10",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "10 : 25"
+    },
+    {
+      "trainNo": "53",
+      "trainName": "Benapol comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Khulna",
+      "departureTime": "07 : 00",
+      "arrivalStation": "Benapol",
+      "arrivalTime": "09 : 30"
+    },
+    {
+      "trainNo": "54",
+      "trainName": "Benapol comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Benapol",
+      "departureTime": "12 : 45",
+      "arrivalStation": "Khulna",
+      "arrivalTime": "15 : 30"
+    },
+    {
+      "trainNo": "57",
+      "trainName": "Rajshahi, Bangladesh comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Ishurdi",
+      "departureTime": "07 : 00",
+      "arrivalStation": "Chapainawabganj",
+      "arrivalTime": "11 : 20"
+    },
+    {
+      "trainNo": "58",
+      "trainName": "Rajshahi, Bangladesh comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Chapainawabganj",
+      "departureTime": "13 : 00",
+      "arrivalStation": "Rajshahi, Bangladesh",
+      "arrivalTime": "14 : 40"
+    },
+    {
+      "trainNo": "77",
+      "trainName": "Rajshahi, Bangladesh comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Rajshahi, Bangladesh",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Rahanpur",
+      "arrivalTime": "17 : 00"
+    },
+    {
+      "trainNo": "78",
+      "trainName": "Rajshahi, Bangladesh comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Rahanpur",
+      "departureTime": "17 : 20",
+      "arrivalStation": "Ishurdi",
+      "arrivalTime": "21 : 15"
+    },
+   
+   
+   
+   
+   
+    {
+      "trainNo": "",
+      "trainName": "Joydebpur Comuter-1",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "09 : 15",
+      "arrivalStation": "Joydebpur",
+      "arrivalTime": "10 : 30"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Joydebpur Comuter-2",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Joydebpur",
+      "departureTime": "10 : 45",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "12 : 45"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Joydebpur Comuter-3",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "12 : 40",
+      "arrivalStation": "Joydebpur",
+      "arrivalTime": "14 : 00"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Joydebpur Comuter-4",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Joydebpur",
+      "departureTime": "15 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "17 : 00"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-1",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Narayanganj",
+      "departureTime": "06 : 35",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "07 : 15"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-2",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "05 : 40",
+      "arrivalStation": "Narayanganj",
+      "arrivalTime": "06 : 20"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-3",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Narayanganj",
+      "departureTime": "14 : 35",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "15 : 20"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-4",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "13 : 40",
+      "arrivalStation": "Narayanganj",
+      "arrivalTime": "14 : 20"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-5",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Narayanganj",
+      "departureTime": "23 : 05",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "23 : 45"
+    },
+    {
+      "trainNo": "",
+      "trainName": "Narayanganj Comuter-6",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "22 : 05",
+      "arrivalStation": "Narayanganj",
+      "arrivalTime": "22 : 50"
+    },
+    {
+      "trainNo": "1",
+      "trainName": "Dhaka Kamalapur Railway Station mail",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "22 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "08 : 00"
+    },
+    {
+      "trainNo": "10",
+      "trainName": "Surma mail",
+      "weeklyOffDay": "No",
+      "startingStation": "Sylhet",
+      "departureTime": "20 : 10",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "10 : 05"
+    },
+    {
+      "trainNo": "11",
+      "trainName": "Dhaka Kamalapur Railway Station Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Noakhali",
+      "departureTime": "21 : 10",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "07 : 30"
+    },
+    {
+      "trainNo": "12",
+      "trainName": "Noakhali Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "20 : 10",
+      "arrivalStation": "Noakhali",
+      "arrivalTime": "07 : 00"
+    },
+    {
+      "trainNo": "13",
+      "trainName": "Jalalabad Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "19 : 30",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "11 : 10"
+    },
+    {
+      "trainNo": "14",
+      "trainName": "Jalalabad Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Sylhet",
+      "departureTime": "22 : 50",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "14 : 55"
+    },
+    {
+      "trainNo": "17",
+      "trainName": "Kushiara Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Akhaura",
+      "departureTime": "06 : 00",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "13 : 10"
+    },
+    {
+      "trainNo": "18",
+      "trainName": "Kushiara Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Sylhet",
+      "departureTime": "16 : 25",
+      "arrivalStation": "Akhaura",
+      "arrivalTime": "23 : 00"
+    },
+    {
+      "trainNo": "19",
+      "trainName": "Bogra Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Santahar",
+      "departureTime": "16 : 00",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "22 : 20"
+    },
+    {
+      "trainNo": "2",
+      "trainName": "Chittagong, Bangladeshmail",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "22 : 30",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "08 : 10"
+    },
+    {
+      "trainNo": "20",
+      "trainName": "Bogra Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "08 : 30",
+      "arrivalStation": "Santahar",
+      "arrivalTime": "15 : 30"
+    },
+    {
+      "trainNo": "21",
+      "trainName": "Padmarag Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Santahar",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Lalmanirhat",
+      "arrivalTime": "12 : 25"
+    },
+    {
+      "trainNo": "22",
+      "trainName": "Padmarag Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmanirhat",
+      "departureTime": "14 : 10",
+      "arrivalStation": "Santahar",
+      "arrivalTime": "20 : 10"
+    },
+    {
+      "trainNo": "29",
+      "trainName": "Sagarika Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "07 : 40",
+      "arrivalStation": "Chandpur",
+      "arrivalTime": "14 : 15"
+    },
+    {
+      "trainNo": "3",
+      "trainName": "Karnaphuli Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "10 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "21 : 30"
+    },
+    {
+      "trainNo": "30",
+      "trainName": "Sagarika Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chandpur",
+      "departureTime": "15 : 00",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "21 : 35"
+    },
+    {
+      "trainNo": "33",
+      "trainName": "Titas commuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Akhaura",
+      "departureTime": "05 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "09 : 20"
+    },
+    {
+      "trainNo": "36",
+      "trainName": "Titas commuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "17 : 45",
+      "arrivalStation": "Akhaura",
+      "arrivalTime": "22 : 10"
+    },
+    {
+      "trainNo": "37",
+      "trainName": "Mymensingh Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "15 : 20",
+      "arrivalStation": "B.B Setu Purbo",
+      "arrivalTime": "09 : 30"
+    },
+    {
+      "trainNo": "38",
+      "trainName": "Mymensingh Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "B.B Setu Purbo",
+      "departureTime": "00 : 45",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "19 : 00"
+    },
+    {
+      "trainNo": "39",
+      "trainName": "Isakhan Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "11 : 35",
+      "arrivalStation": "Mymensingh",
+      "arrivalTime": "23 : 45"
+    },
+    {
+      "trainNo": "4",
+      "trainName": "Karnaphuli Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "08 : 25",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "19 : 25"
+    },
+    {
+      "trainNo": "40",
+      "trainName": "Isakhan Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Mymensingh",
+      "departureTime": "10 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "23 : 40"
+    },
+    {
+      "trainNo": "41",
+      "trainName": "Kanchan Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbatipur",
+      "departureTime": "08 : 00",
+      "arrivalStation": "Thakurgaon Road",
+      "arrivalTime": "12 : 30"
+    },
+    {
+      "trainNo": "42",
+      "trainName": "Kanchan Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Thakurgaon Road",
+      "departureTime": "14 : 00",
+      "arrivalStation": "Parbatipur",
+      "arrivalTime": "18 : 00"
+    },
+    {
+      "trainNo": "43",
+      "trainName": "Mahua Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "8 : 10",
+      "arrivalStation": "Mohanganj",
+      "arrivalTime": "14 : 50"
+    },
+    {
+      "trainNo": "44",
+      "trainName": "Mahua Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Mohanganj",
+      "departureTime": "15 : 20",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "23 : 10"
+    },
+    {
+      "trainNo": "45",
+      "trainName": "Samatat Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Noakhali",
+      "departureTime": "08 : 00",
+      "arrivalStation": "Laksam",
+      "arrivalTime": "09 : 45"
+    },
+    {
+      "trainNo": "46",
+      "trainName": "Samatat Express Train",
+      "weeklyOffDay": "No",
+      "startingStation": "Laksam",
+      "departureTime": "18 : 00",
+      "arrivalStation": "Noakhali",
+      "arrivalTime": "20 : 00"
+    },
+    {
+      "trainNo": "47",
+      "trainName": "Dewanganj Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "05 : 40",
+      "arrivalStation": "Dewanganj Bazar",
+      "arrivalTime": "11 : 45"
+    },
+    {
+      "trainNo": "48",
+      "trainName": "Dewanganj Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dewanganj Bazar",
+      "departureTime": "13 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "19 : 00"
+    },
+    {
+      "trainNo": "49",
+      "trainName": "Balaka Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "10 : 40",
+      "arrivalStation": "Mymensingh",
+      "arrivalTime": "14 : 50"
+    },
+    {
+      "trainNo": "50",
+      "trainName": "Balaka Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Mymensingh",
+      "departureTime": "15 : 15",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "19 : 25"
+    },
+    {
+      "trainNo": "51",
+      "trainName": "Jamalpur comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "15 : 40",
+      "arrivalStation": "Dewangonj Bazar",
+      "arrivalTime": "22 : 15"
+    },
+    {
+      "trainNo": "52",
+      "trainName": "Jamalpur comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Dewangonj Bazar",
+      "departureTime": "04 : 45",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "11 : 10"
+    },
+    {
+      "trainNo": "55",
+      "trainName": "Vawall Exp.",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "21 : 00",
+      "arrivalStation": "Dewangong Bazar",
+      "arrivalTime": "05 : 40"
+    },
+    {
+      "trainNo": "56",
+      "trainName": "Vawal Exp.",
+      "weeklyOffDay": "No",
+      "startingStation": "Dewangong Bazar",
+      "departureTime": "01 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "11 : 40"
+    },
+    {
+      "trainNo": "59",
+      "trainName": "Ramsagor Exp.",
+      "weeklyOffDay": "No",
+      "startingStation": "Bonarpara",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Dinajpur, Bangladesh",
+      "arrivalTime": "14 : 00"
+    },
+    {
+      "trainNo": "60",
+      "trainName": "Ramsagor Exp.",
+      "weeklyOffDay": "No",
+      "startingStation": "Dinajpur, Bangladesh",
+      "departureTime": "14 : 40",
+      "arrivalStation": "Bonarpara",
+      "arrivalTime": "21 : 00"
+    },
+    {
+      "trainNo": "61",
+      "trainName": "Dinajpur, Bangladesh Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "06 : 30",
+      "arrivalStation": "Berol",
+      "arrivalTime": "10 : 50"
+    },
+    {
+      "trainNo": "62",
+      "trainName": "Dinajpur, Bangladesh Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Berol",
+      "departureTime": "11 : 10",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "15 : 00"
+    },
+    {
+      "trainNo": "63",
+      "trainName": "Lalmoni Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "12 : 50",
+      "arrivalStation": "Parbotipur",
+      "arrivalTime": "15 : 20"
+    },
+    {
+      "trainNo": "64",
+      "trainName": "Lalmoni Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbotipur",
+      "departureTime": "05 : 30",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "07 : 40"
+    },
+    {
+      "trainNo": "65",
+      "trainName": "Burimari Comuter-1",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "08 : 00",
+      "arrivalStation": "Burimari",
+      "arrivalTime": "10 : 10"
+    },
+    {
+      "trainNo": "66",
+      "trainName": "Burimari Comuter-2",
+      "weeklyOffDay": "No",
+      "startingStation": "Burimari",
+      "departureTime": "10 : 30",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "12 : 40"
+    },
+    {
+      "trainNo": "67",
+      "trainName": "Chattala Exp.",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "08 : 40",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "16 : 40"
+    },
+    {
+      "trainNo": "68",
+      "trainName": "Chattala Exp.",
+      "weeklyOffDay": "Tuesday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "11 : 00",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "20 : 05"
+    },
+    {
+      "trainNo": "69",
+      "trainName": "Parbotipur Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "21 : 45",
+      "arrivalStation": "Parbotipur",
+      "arrivalTime": "00 : 00"
+    },
+    {
+      "trainNo": "7",
+      "trainName": "Uttarbanga mail",
+      "weeklyOffDay": "No",
+      "startingStation": "Santahar",
+      "departureTime": "09 : 30",
+      "arrivalStation": "Punchogor",
+      "arrivalTime": "23 : 10"
+    },
+    {
+      "trainNo": "70",
+      "trainName": "Parbotipur Comuter",
+      "weeklyOffDay": "No",
+      "startingStation": "Parbotipur",
+      "departureTime": "19 : 10",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "21 : 25"
+    },
+    {
+      "trainNo": "71",
+      "trainName": "Burimari Comuter-3",
+      "weeklyOffDay": "No",
+      "startingStation": "Lalmonirhat",
+      "departureTime": "15 : 10",
+      "arrivalStation": "Burimari",
+      "arrivalTime": "17 : 20"
+    },
+    {
+      "trainNo": "72",
+      "trainName": "Burimari Comuter-4",
+      "weeklyOffDay": "No",
+      "startingStation": "Burimari",
+      "departureTime": "22 : 50",
+      "arrivalStation": "Lalmonirhat",
+      "arrivalTime": "01 : 00"
+    },
+    {
+      "trainNo": "75",
+      "trainName": "Dholesssory Expr.",
+      "weeklyOffDay": "No",
+      "startingStation": "Mymensingh",
+      "departureTime": "11 : 45",
+      "arrivalStation": "B.B Setu East",
+      "arrivalTime": "15 : 50"
+    },
+    {
+      "trainNo": "76",
+      "trainName": "Dholesssory Expr.",
+      "weeklyOffDay": "No",
+      "startingStation": "B.B Setu East",
+      "departureTime": "17 : 50",
+      "arrivalStation": "Mymensingh",
+      "arrivalTime": "22 : 50"
+    },
+    {
+      "trainNo": "79",
+      "trainName": "Laksam Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Chittagong, Bangladesh",
+      "departureTime": "17 : 30",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "22 : 30"
+    },
+    {
+      "trainNo": "79 Down",
+      "trainName": "Laksam Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Comilla",
+      "departureTime": "22 : 40",
+      "arrivalStation": "Laksam",
+      "arrivalTime": "23 : 20"
+    },
+    {
+      "trainNo": "8",
+      "trainName": "Uttarbanga mail",
+      "weeklyOffDay": "No",
+      "startingStation": "Punchogor",
+      "departureTime": "07 : 40",
+      "arrivalStation": "Santahar",
+      "arrivalTime": "22 : 40"
+    },
+    {
+      "trainNo": "80",
+      "trainName": "Laksam Comuter",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Comilla",
+      "departureTime": "05 : 50",
+      "arrivalStation": "Chittagong, Bangladesh",
+      "arrivalTime": "08 : 50"
+    },
+    {
+      "trainNo": "80 Up",
+      "trainName": "Laksam Comuter",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Laksam",
+      "departureTime": "03 : 00",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "04 : 35"
+    },
+    {
+      "trainNo": "81",
+      "trainName": "Chandpur Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Chandpur",
+      "departureTime": "10 : 00",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "13 : 35"
+    },
+    {
+      "trainNo": "82",
+      "trainName": "Chandpur Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Laksam",
+      "departureTime": "07 : 15",
+      "arrivalStation": "Chandpur",
+      "arrivalTime": "09 : 45"
+    },
+    {
+      "trainNo": "83",
+      "trainName": "Chandpur Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Chandpur",
+      "departureTime": "17 : 40",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "21 : 35"
+    },
+    {
+      "trainNo": "83 Down",
+      "trainName": "Chandpur Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Comilla",
+      "departureTime": "21 : 45",
+      "arrivalStation": "Laksam",
+      "arrivalTime": "22 : 30"
+    },
+    {
+      "trainNo": "84",
+      "trainName": "Chandpur Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Comilla",
+      "departureTime": "13 : 25",
+      "arrivalStation": "Chandpur",
+      "arrivalTime": "17 : 20"
+    },
+    {
+      "trainNo": "85",
+      "trainName": "Noakhali Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Noakhali",
+      "departureTime": "11 : 20",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "14 : 05"
+    },
+    {
+      "trainNo": "86",
+      "trainName": "Noakhali Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Laksam",
+      "departureTime": "08 : 15",
+      "arrivalStation": "Noakhali",
+      "arrivalTime": "11 : 00"
+    },
+    {
+      "trainNo": "86 Up",
+      "trainName": "Noakhali Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Laksam",
+      "departureTime": "07 : 20",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "07 : 55"
+    },
+    {
+      "trainNo": "87",
+      "trainName": "Noakhali Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Noakhali",
+      "departureTime": "17 : 20",
+      "arrivalStation": "Laksam",
+      "arrivalTime": "19 : 20"
+    },
+    {
+      "trainNo": "88",
+      "trainName": "Noakhali Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Comilla",
+      "departureTime": "14 : 40",
+      "arrivalStation": "Noakhali",
+      "arrivalTime": "17 : 05"
+    },
+    {
+      "trainNo": "89",
+      "trainName": "Comilla Comuter",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Comilla",
+      "departureTime": "06 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "12 : 00"
+    },
+    {
+      "trainNo": "89 Down",
+      "trainName": "Comilla Comuter",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Akhaura",
+      "departureTime": "05 : 00",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "05 : 50"
+    },
+    {
+      "trainNo": "9",
+      "trainName": "Surma mail",
+      "weeklyOffDay": "No",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "22 : 50",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "12 : 00"
+    },
+    {
+      "trainNo": "90",
+      "trainName": "Comilla Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "13 : 00",
+      "arrivalStation": "Comilla",
+      "arrivalTime": "19 : 15"
+    },
+    {
+      "trainNo": "90 Up",
+      "trainName": "Comilla Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Comilla",
+      "departureTime": "19 : 50",
+      "arrivalStation": "Akhaura",
+      "arrivalTime": "21 : 45"
+    },
+    {
+      "trainNo": "91",
+      "trainName": "Mymensingh Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Joydebpur",
+      "departureTime": "12 : 50",
+      "arrivalStation": "Mymensingh",
+      "arrivalTime": "15 : 10"
+    },
+    {
+      "trainNo": "92",
+      "trainName": "Mymensingh Comuter",
+      "weeklyOffDay": "Saturday",
+      "startingStation": "Mymensingh",
+      "departureTime": "09 : 40",
+      "arrivalStation": "Joydebpur",
+      "arrivalTime": "12 : 35"
+    },
+    {
+      "trainNo": "93",
+      "trainName": "Sylhet Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Akhaura",
+      "departureTime": "15 : 30",
+      "arrivalStation": "Sylhet",
+      "arrivalTime": "21 : 55"
+    },
+    {
+      "trainNo": "94",
+      "trainName": "Sylhet Comuter",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Sylhet",
+      "departureTime": "07 : 30",
+      "arrivalStation": "Akhaura",
+      "arrivalTime": "12 : 30"
+    },
+    {
+      "trainNo": "Turag/1",
+      "trainName": "Turag Express Train",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "05 : 10",
+      "arrivalStation": "Joydebpur",
+      "arrivalTime": "06 : 25"
+    },
+    {
+      "trainNo": "Turag/2",
+      "trainName": "Turag",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Joydebpur",
+      "departureTime": "07 : 30",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "08 : 55"
+    },
+    {
+      "trainNo": "Turag/3",
+      "trainName": "Turag",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Dhaka Kamalapur Railway Station",
+      "departureTime": "17 : 20",
+      "arrivalStation": "Joydebpur",
+      "arrivalTime": "18 : 40"
+    },
+    {
+      "trainNo": "Turag/4",
+      "trainName": "Turag exp.",
+      "weeklyOffDay": "Friday",
+      "startingStation": "Joydebpur",
+      "departureTime": "19 : 00",
+      "arrivalStation": "Dhaka Kamalapur Railway Station",
+      "arrivalTime": "20 : 20"
+    }
+  ]
+}

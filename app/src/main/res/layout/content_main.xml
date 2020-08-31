@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.shopnobuilder.digitalrailway.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:background="@drawable/bg"
+    android:backgroundTintMode="multiply">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/appbar_padding_top"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:weightSum="1">
+            <Button
+                android:id="@+id/find_train"
+                android:layout_weight=".5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/find"
+                android:background="@android:color/transparent"
+                android:state_focused="false"
+                android:state_pressed="true"
+                android:textSize="16dp"
+                android:textColor="#fff"
+                android:padding="18dp"
+                android:transformPivotX="@dimen/appbar_padding_top"
+                android:transitionName="@string/app_name"
+                android:text="@string/menu1"/>
+            <Button
+                android:id="@+id/liveUpdate"
+                android:layout_width="0dp"
+                android:layout_weight=".5"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/location"
+                android:background="@android:color/transparent"
+                android:textSize="16dp"
+                android:padding="18dp"
+                android:textColor="#fff"
+                android:text="Live Train Update"/>
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/train_tacking"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/tracking"
+            android:background="@android:color/transparent"
+            android:textSize="16dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="Train Tracking" />
+        <Button
+            android:id="@+id/buyTicket"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/ticket"
+            android:background="@android:color/transparent"
+            android:textSize="16dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="Buy Ticket" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+        <Button
+            android:id="@+id/all_station_maps"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/maps"
+            android:background="@android:color/transparent"
+            android:textSize="16dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="All Station Map" />
+        <Button
+            android:id="@+id/important_number"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/phone"
+            android:background="@android:color/transparent"
+            android:textSize="18dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="Important_number" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+        <Button
+            android:id="@+id/mobile_ticket"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/mobile_ticket"
+            android:background="@android:color/transparent"
+            android:textSize="16dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="Mobile Ticket" />
+
+        <Button
+            android:id="@+id/notice"
+            android:layout_width="0dp"
+            android:layout_weight=".5"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/notice"
+            android:background="@android:color/transparent"
+            android:textSize="16dp"
+            android:padding="18dp"
+            android:textColor="#fff"
+            android:text="Notice" />
+    </LinearLayout>
+        <TextView
+            android:id="@+id/notification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="16dp" />
+
+
+    </LinearLayout>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
